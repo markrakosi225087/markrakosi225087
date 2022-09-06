@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @markrakosi225087
+- 👀 I’m interested in learning about AI and AGI safety
+- 🌱 I’m currently learning Computer Science Engineering and Applied Data Science and Artificial Intelligence 
+- 💞️ I’m looking to collaborate on anything fun
+- 📫 How to reach me: here
